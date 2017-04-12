@@ -1,8 +1,8 @@
 rigidtform
 ========
-#####Optimal rotation and translation between corresponding points.#####
-######Version 1.0, 2-17-17######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/rigidtform/archive/master.zip)#####
+##### Optimal rotation and translation between corresponding points.
+###### Version 1.0, 2-17-17
+##### Download Repository: [ZIP Archive](https://github.com/horchler/rigidtform/archive/master.zip)
 
 --------
 
